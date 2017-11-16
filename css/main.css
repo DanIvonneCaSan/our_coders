@@ -3,10 +3,15 @@ h1, h2{
   text-shadow: -2px -1px 1px #0E7A84;
 }
 
+h1{
+  margin:15px;
+}
+
 .subtitle{
   width: 100px;
   border-top:5px solid;
   display:block;
+  margin: 15px;
 }
 
 section{
@@ -22,7 +27,7 @@ div >img{
   position: relative;
   display: inline-block;
   bottom:50px;
-  left: 50px;
+  left: 70px;
   font-family: 'Abel', sans-serif;
   font-size: 20px;
   color: white;
